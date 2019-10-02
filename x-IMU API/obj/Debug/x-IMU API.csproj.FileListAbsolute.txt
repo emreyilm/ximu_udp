@@ -1,0 +1,12 @@
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU API\bin\Debug\x-IMU API.dll
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU API\bin\Debug\x-IMU API.pdb
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU API\obj\Debug\x-IMU API.csproj.CoreCompileInputs.cache
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU API\obj\Debug\x-IMU API.dll
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU API\obj\Debug\x-IMU API.pdb
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU API\obj\Debug\x-IMU API.csprojAssemblyReference.cache
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU API\bin\Debug\x-IMU API.dll
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU API\bin\Debug\x-IMU API.pdb
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU API\obj\Debug\x-IMU API.csprojAssemblyReference.cache
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU API\obj\Debug\x-IMU API.csproj.CoreCompileInputs.cache
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU API\obj\Debug\x-IMU API.dll
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU API\obj\Debug\x-IMU API.pdb
