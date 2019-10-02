@@ -1,0 +1,147 @@
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.csprojAssemblyReference.cache
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x_IMU_GUI.Form_3Dcuboid.resources
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x_IMU_GUI.Form_digitalIOpanel.resources
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x_IMU_GUI.Form_main.resources
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x_IMU_GUI.Form_PWMoutputPanel.resources
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x_IMU_GUI.Properties.Resources.resources
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.csproj.GenerateResource.cache
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.csproj.CoreCompileInputs.cache
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Back.png
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Bottom.png
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Front.png
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Left.png
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Right.png
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Top.png
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\HardIronCal\MathNet.Numerics.dll
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\HardIronCal\MathNet.Numerics.xml
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\ADXL345Aoscilloscope_settings.ini
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\ADXL345Boscilloscope_settings.ini
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\ADXL345Coscilloscope_settings.ini
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\ADXL345Doscilloscope_settings.ini
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\analogueInputAX0AX1oscilloscope_settings.ini
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\analogueInputAX2AX3oscilloscope_settings.ini
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\analogueInputAX4AX5oscilloscope_settings.ini
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\analogueInputAX6AX7oscilloscope_settings.ini
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\accelerometerOscilloscope_settings.ini
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\batteryOscilloscope_settings.ini
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\eulerAnglesOscilloscope_settings.ini
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\gyroscopeOscilloscope_settings.ini
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\magnetometerOscilloscope_settings.ini
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\thermometerOscilloscope_settings.ini
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Bootloader\16-Bit Flash Programmer.exe
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\HardIronCal\HardIronCal.exe
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\Osc_DLL.dll
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU GUI.exe.config
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU GUI.exe.manifest
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU GUI.application
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU GUI.exe
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU GUI.pdb
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Tao.OpenGl.dll
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU API.dll
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Tao.OpenGl.xml
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU API.pdb
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.exe.manifest
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.application
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.csproj.CopyComplete
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.exe
+C:\Users\Emre Yilmaz\Desktop\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.pdb
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Back.png
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Bottom.png
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Front.png
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Left.png
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Right.png
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Top.png
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\HardIronCal\MathNet.Numerics.dll
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\HardIronCal\MathNet.Numerics.xml
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\ADXL345Aoscilloscope_settings.ini
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\ADXL345Boscilloscope_settings.ini
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\ADXL345Coscilloscope_settings.ini
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\ADXL345Doscilloscope_settings.ini
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\analogueInputAX0AX1oscilloscope_settings.ini
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\analogueInputAX2AX3oscilloscope_settings.ini
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\analogueInputAX4AX5oscilloscope_settings.ini
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\analogueInputAX6AX7oscilloscope_settings.ini
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\accelerometerOscilloscope_settings.ini
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\batteryOscilloscope_settings.ini
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\eulerAnglesOscilloscope_settings.ini
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\gyroscopeOscilloscope_settings.ini
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\magnetometerOscilloscope_settings.ini
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\thermometerOscilloscope_settings.ini
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Bootloader\16-Bit Flash Programmer.exe
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\HardIronCal\HardIronCal.exe
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\Osc_DLL.dll
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU GUI.exe.config
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU GUI.exe.manifest
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU GUI.application
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU GUI.exe
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU GUI.pdb
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Tao.OpenGl.dll
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Tao.Platform.Windows.dll
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU API.dll
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Tao.OpenGl.xml
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\Tao.Platform.Windows.xml
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU API.pdb
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.csprojAssemblyReference.cache
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x_IMU_GUI.Form_3Dcuboid.resources
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x_IMU_GUI.Form_digitalIOpanel.resources
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x_IMU_GUI.Form_main.resources
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x_IMU_GUI.Form_PWMoutputPanel.resources
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x_IMU_GUI.Properties.Resources.resources
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.csproj.GenerateResource.cache
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.csproj.CoreCompileInputs.cache
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.exe.manifest
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.application
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.csproj.CopyComplete
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.exe
+D:\Quanser_ws_updated\x-IMU-GUI-master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.pdb
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Back.png
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Bottom.png
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Front.png
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Left.png
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Right.png
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Form_3Dcuboid\Top.png
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\HardIronCal\MathNet.Numerics.dll
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\HardIronCal\MathNet.Numerics.xml
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\ADXL345Aoscilloscope_settings.ini
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\ADXL345Boscilloscope_settings.ini
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\ADXL345Coscilloscope_settings.ini
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\ADXL345Doscilloscope_settings.ini
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\analogueInputAX0AX1oscilloscope_settings.ini
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\analogueInputAX2AX3oscilloscope_settings.ini
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\analogueInputAX4AX5oscilloscope_settings.ini
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\analogueInputAX6AX7oscilloscope_settings.ini
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\accelerometerOscilloscope_settings.ini
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\batteryOscilloscope_settings.ini
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\eulerAnglesOscilloscope_settings.ini
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\gyroscopeOscilloscope_settings.ini
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\magnetometerOscilloscope_settings.ini
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\thermometerOscilloscope_settings.ini
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Bootloader\16-Bit Flash Programmer.exe
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\HardIronCal\HardIronCal.exe
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Oscilloscope\Osc_DLL.dll
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU GUI.exe.config
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU GUI.exe.manifest
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU GUI.application
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU GUI.exe
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU GUI.pdb
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Tao.OpenGl.dll
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Tao.Platform.Windows.dll
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Tao.OpenGl.xml
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\Tao.Platform.Windows.xml
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x_IMU_GUI.Form_3Dcuboid.resources
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x_IMU_GUI.Form_digitalIOpanel.resources
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x_IMU_GUI.Form_main.resources
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x_IMU_GUI.Form_PWMoutputPanel.resources
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x_IMU_GUI.Properties.Resources.resources
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.csproj.GenerateResource.cache
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.csproj.CoreCompileInputs.cache
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.exe.manifest
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.application
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.csproj.CopyComplete
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.exe
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.pdb
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU API.dll
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\bin\Debug\x-IMU API.pdb
+D:\OneDrive - sabanciuniv.edu\_RESEARCH\_Research_EulerRates_Accelerations_Estimation\_Workspace_GimbalTestBench\_Codes\Quanser_ws_updated\xIMU_GUI_Master\x-IMU GUI\x-IMU GUI\obj\x86\Debug\x-IMU GUI.csprojAssemblyReference.cache

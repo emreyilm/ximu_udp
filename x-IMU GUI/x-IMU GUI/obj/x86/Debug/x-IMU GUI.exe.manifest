@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="x-IMU GUI.exe" version="13.3.0.25" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="x-IMU GUI" version="13.1.7145.21444" language="neutral" processorArchitecture="x86" />
+    <commandLine file="x-IMU GUI.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tao.OpenGl.dll" size="1171456">
+      <assemblyIdentity name="Tao.OpenGl" version="2.1.0.12" publicKeyToken="1CA010269A4501EF" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Gmff8ACEBCxEiJsYbWl4qO/KGu+BdUD3aDESiIpPuSY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tao.Platform.Windows.dll" size="98304">
+      <assemblyIdentity name="Tao.Platform.Windows" version="1.0.0.5" publicKeyToken="701104B2DA67A104" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ustb6/mP5EG9u0ymidL5fq3pQSge7lghM4b4U2IAUQU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="x-IMU API.dll" size="87040">
+      <assemblyIdentity name="x-IMU API" version="14.0.7145.21400" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>cqmhFbCaxbWaPGJ/a8J/A50b9aVOOi7sNr7Do4f+Wcs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="x-IMU GUI.exe" size="159744">
+      <assemblyIdentity name="x-IMU GUI" version="13.1.7145.21444" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>cozO4OfeoKR9aUe+D7DSxE7aGpnBFHT0sg/AocuQ51Y=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Bootloader\16-Bit Flash Programmer.exe" size="528896">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Wc6t8VcX9FFMAl3JcMTYBrX9kFmFmYCj21gP+Qi4t5o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Form_3Dcuboid\Back.png" size="31327">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1s91CJhjWdgxNcc8GayD4TAraaD5srE3wr+vrtv09vY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Form_3Dcuboid\Bottom.png" size="37249">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>S5GjMY3fK2JzjnLMnZiFynKcgC1QQlzFLv3CIB29l8E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Form_3Dcuboid\Front.png" size="29112">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bl0dohbasJ8Ak1GUCWWtmBqHGXSiujH6vaLYHF/qDOg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Form_3Dcuboid\Left.png" size="25899">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bT6aLoRcrIqAIoYewrvVL2syky3cga+tsKNgNMzyB3A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Form_3Dcuboid\Right.png" size="30318">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cWDzW6j7DsRY1ikAlKVt7MoFpy8+wAbVbWFBLao9FN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Form_3Dcuboid\Top.png" size="31355">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3FrHSPePdnlstDhwKPj095vqdEbzcQfy8Bkq/DEjJpY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HardIronCal\HardIronCal.exe" size="10240">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Czd5lK3HNK2BjR7lsC/BVfdtdjB6nUk4APgo3yII/xc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HardIronCal\MathNet.Numerics.dll" size="937472">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>sio4c8N9nwgF2HYY7pfkrCbs0YcDi8s7yJZugKHozSw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HardIronCal\MathNet.Numerics.xml" size="3067358" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kNvqn8FdgKFO+cNO79a9LtkNd/a81U8qgSidJGirUkk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Oscilloscope\accelerometerOscilloscope_settings.ini" size="1278">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tSmm9v+3+duo416XYK+HfDXsxWWrKaG4jG5R/RKvkqw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Oscilloscope\ADXL345Aoscilloscope_settings.ini" size="1274">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>OpqknaApyo99kv8FhgnefNfhO58O+jLH5h6TcB1qS7E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Oscilloscope\ADXL345Boscilloscope_settings.ini" size="1274">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>r1TxbMp5v+KioxaNW/IDodHPA42NNlm39sToaDnwcvw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Oscilloscope\ADXL345Coscilloscope_settings.ini" size="1274">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>wcyMq6YdPlnT57V7UnzlR1TvPCQblH9q957uV4zZujk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Oscilloscope\ADXL345Doscilloscope_settings.ini" size="1274">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FHjzBdEF+0ksn5G4L5tphEoUCQHeqTkCBAWPmDC7TbY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Oscilloscope\analogueInputAX0AX1oscilloscope_settings.ini" size="1294">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>m3Efj0EvNpXSXlyKk30BEf90yl/yl2bIHXlzlSyeJ7c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Oscilloscope\analogueInputAX2AX3oscilloscope_settings.ini" size="1294">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TXJT83KzjWIBhsuu3oC5WKS8zi6eMjLTevig7bMVSOg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Oscilloscope\analogueInputAX4AX5oscilloscope_settings.ini" size="1294">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yGij0cjPK7Jd+Rd69/2GAUwoOy8WD+0ukqYgBuXZpO0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Oscilloscope\analogueInputAX6AX7oscilloscope_settings.ini" size="1294">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>RXQU/H6isXOcazyckrjyG2kX4xeAMKj6ea0wK5hkovI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Oscilloscope\batteryOscilloscope_settings.ini" size="1274">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>x8kxeFD67E/WZh3XeP0fI7VQUguDwPIGiBpzozb8T8I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Oscilloscope\eulerAnglesOscilloscope_settings.ini" size="1279">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VQ44liwS3mbl1Skyqk+KwCmv+bN/X6SntuA+u4Yi9ZY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Oscilloscope\gyroscopeOscilloscope_settings.ini" size="1280">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R2ixYbWMQpgDRKCcW4p3GeN+/Oglk8/bdA6P8a7tAHE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Oscilloscope\magnetometerOscilloscope_settings.ini" size="1277">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>01ZJe3QkO5bMfqUUyd7Xn6FtbQ3hM3ymrBkRtWUVsW8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Oscilloscope\Osc_DLL.dll" size="710144">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ls6RCWdMZaXxA74ffwxWn1dlF/6r4EfNFZJ6dMZOgw4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Oscilloscope\thermometerOscilloscope_settings.ini" size="1281">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+dtCgxf7a38eEb/1N1hV3/YY5Pt83LxmIDFMOcmBY9A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="x-IMU GUI.exe.config" size="144">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>jLCHdLm7v47ACsSCc72IOp8bA051ZvlIJCmYB91hk5o=</dsig:DigestValue>
+    </hash>
+  </file>
+</asmv1:assembly>
